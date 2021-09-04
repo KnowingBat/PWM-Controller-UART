@@ -16,9 +16,12 @@ The program is able to show the motor's speed in terms of percentage of Vmax.
 Check all the schematics on this folder: 
 
 ## File description 
-> *display.c* 
+> *display.c*
+ 
 In this file you can find all the functions needed in order to display the speed percentage, controlling the shift registers logic.
-> *main.c* 
+
+> *main.c*
+ 
 This file contains the main function, in which several operations are done as following: 
 - Set PINs for data registers, latch clock, shift register clock, output enable signal and the timer0' output;
 - Set the UART interface and its function mode;
