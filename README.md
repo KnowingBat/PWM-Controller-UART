@@ -13,7 +13,7 @@ The program is able to show the motor's speed in terms of percentage of Vmax.
 - Power supply or battery (x1);
 
 ## Schematics
-Check all the schematics in this folder: 
+Check all the schematics in this folder: [Pics](Pics/)
 
 ## File description 
 > *display.c*
