@@ -1,5 +1,5 @@
-### PWM Controller using UART interface - Atmega328p 
-# Overview 
+# PWM Controller using UART interface - Atmega328p 
+## Overview 
 
 The main purpose of this project is to learn how to interface an user through UART interface to the PWM module driving a DC Motor.
 The program is able to show the motor's speed in terms of percentage of Vmax.
